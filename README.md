@@ -45,9 +45,9 @@
 
 | Arquivo | Descrição |
 |---|---|
-| `Power_BI_-_Financeiros.pbix` | Projeto completo do Power BI Desktop, com as 3 páginas |
-| `Power_BI_-_Financeiros.pdf` | Exportação em PDF das 3 páginas do relatório |
-| `Power_BI_Financeiros.pptx` | Suplemento em PowerPoint, com uma página do relatório por slide |
+| `Power BI - Financeiros.pbix` | Projeto completo do Power BI Desktop, com as 3 páginas |
+| `Power BI - Financeiros.pdf` | Exportação em PDF das 3 páginas do relatório |
+| `Power BI - Financeiros.pptx` | Suplemento em PowerPoint, com uma página do relatório por slide |
 
 # Nota sobre a Publicação
 - O desafio original pede para publicar o relatório no Power BI Service e compartilhar como suplemento no PowerPoint a partir de lá. Isso não foi possível porque o cadastro no Power BI Service exige um e-mail corporativo ou institucional, e esta conta é pessoal. Como alternativa, o relatório foi entregue completo em `.pbix`, com exportação em PDF e em PowerPoint geradas diretamente a partir do Power BI Desktop.
